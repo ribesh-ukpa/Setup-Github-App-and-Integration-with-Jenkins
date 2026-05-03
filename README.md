@@ -2,6 +2,9 @@
 
 This guide covers setting up automatic Jenkins builds triggered by GitHub pushes using a GitHub App, with Multibranch Pipeline or GitHub Organization Folder. Security is considered at every step.
 
+Reference Links: 
+https://docs.cloudbees.com/docs/cloudbees-ci/latest/cloud-admin-guide/github-app-auth  
+
 ---
 
 ## Architecture Overview
