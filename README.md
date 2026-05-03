@@ -73,7 +73,7 @@ Before starting, ensure you have:
 5. (IMPORTANT): Where can this GitHub App be installed?
     -    Select **Any account** for Github Organization level access. ✅
     -    Select **Only on this account for personal repos**
-    ![](image.png)
+    ![](image1.png)
 
 6. Click **Create GitHub App**
 
