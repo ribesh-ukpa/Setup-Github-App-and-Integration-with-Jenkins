@@ -70,11 +70,16 @@ Before starting, ensure you have:
    - Repository
    - Workflow run
 
-5. Click **Create GitHub App**
+5. (IMPORTANT): Where can this GitHub App be installed?
+    -    Select **Any account** for Github Organization level access. ✅
+    -    Select **Only on this account for personal repos**
+    ![](image.png)
 
-6. Note the **App ID** shown on the app settings page
+6. Click **Create GitHub App**
 
-7. Scroll down and click **"Generate a private key"** — download the `.pem` file immediately and store it securely
+7. Note the **App ID** shown on the app settings page
+
+8. Scroll down and click **"Generate a private key"** — download the `.pem` file immediately and store it securely
 
 ---
 
